@@ -584,7 +584,7 @@ img {
     display: flex;
     align-items: center;
     flex-direction: column;
-    gap: 10px;
+    gap: 15px;
     transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
@@ -601,11 +601,13 @@ img {
     font-size: 40px;
     line-height: normal;
     text-align: center;
+    text-transform: uppercase;
     transition: color 0.3s ease;
     margin: 0;
 }
 
 .offer__link {
+    text-transform: uppercase;
     text-decoration: none;
     text-align: center;
     padding: 10px 25px;
