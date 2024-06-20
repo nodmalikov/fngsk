@@ -875,13 +875,18 @@ img {
 }
 
 .partner__list {
-    animation: scroll 60s linear infinite;
+    animation: scroll 60s linear infinite alternate;
     display: flex;
     align-items: center;
     gap: 100px;
     width: calc(250px * 12);
     list-style: none;
     margin: 0;
+}
+
+.partner__img {
+    width: 250px;
+    display: block;
 }
 
 
