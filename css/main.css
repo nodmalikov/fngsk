@@ -462,11 +462,11 @@ img {
     font-weight: 700;
 }
 
-.bi-megaphone-fill {
-    width: 150px;
-    height: 150px;
-    color: var(--green-color);
+.acceptance__img {
+    width: 200px;
+    height: 200px;
     margin-bottom: 30px;
+    display: block;
 }
 
 .acceptance__paragraph {
