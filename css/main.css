@@ -840,6 +840,7 @@ img {
     background-color: #fff;
     padding-top: 100px;
     padding-bottom: 100px;
+    overflow: hidden;
 }
 
 .partner__wrapper {
