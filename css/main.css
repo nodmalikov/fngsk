@@ -184,9 +184,7 @@ img {
 .pictures__heading,
 .directions__heading,
 .news__heading,
-.tss__heading,
-.partner__heading,
-.maps__heading {
+.tss__heading {
     font-weight: 700;
     line-height: normal;
     font-size: 40px;
@@ -951,9 +949,8 @@ img {
 
 /* MAPS */
 .maps {
-    padding-top: 100px;
     width: 100vw;
-    background-color: #fde293;
+    background-color: #fff;
 }
 
 .maps__container {
@@ -1205,9 +1202,7 @@ img {
     .acceptance__heading,
     .directions__heading,
     .news__heading,
-    .tss__heading,
-    .partner__heading,
-    .maps__heading {
+    .tss__heading {
         font-size: 35px;
     }
 }
