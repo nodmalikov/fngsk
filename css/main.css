@@ -881,6 +881,10 @@ img {
     color: #fff;
 }
 
+.tss__heading {
+    margin-bottom: 20px;
+}
+
 .tss__paragraph {
     font-weight: 600;
     font-size: 20px;
