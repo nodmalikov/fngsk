@@ -52,6 +52,11 @@ html {
     scroll-behavior: smooth;
 }
 
+*:focus {
+    outline: 2px dashed var(--green-color);
+    outline-offset: 2px;
+}
+
 *,
 *::before,
 *::after {
