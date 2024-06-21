@@ -30,3 +30,15 @@ document.onreadystatechange = function () {
             "body").style.visibility = "visible";
     }
 };
+
+// SCROLL
+const elInner = document.querySelector('.site-header__inner');
+const offset = elInner.offsetHeight;
+
+window.onscroll = function() {
+    if (window.scrollY > offset-10) {
+        elInner.classList.add("site-header__none");
+    } else if(window.scrollY < offset-20) {
+        elInner.classList.remove("site-header__none");
+    }
+}

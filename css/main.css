@@ -221,6 +221,18 @@ img {
     gap: 10px;
 }
 
+.site-header__tablet {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 10px;
+    display: none;
+}
+
+.site-header__none {
+    display: none;
+}
+
 .site-header__img {
     width: 70px;
     height: 70px;
@@ -1130,6 +1142,11 @@ img {
     }
     
     .site-header__inner {
+        display: none;
+    }
+
+    .site-header__tablet {
+        display: flex;
         gap: 5px;
     }
     
