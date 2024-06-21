@@ -1131,7 +1131,7 @@ img {
     .partner__wrapper::after {
         display: none;
     }
-
+    
     .partner__container {
         padding: 0;
     }
@@ -1157,7 +1157,7 @@ img {
     .site-header__inner {
         display: none;
     }
-
+    
     .site-header__tablet {
         display: flex;
         gap: 5px;
