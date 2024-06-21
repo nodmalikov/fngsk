@@ -1106,6 +1106,10 @@ img {
     .partner__wrapper::after {
         display: none;
     }
+
+    .partner__container {
+        padding: 0;
+    }
 }
 
 /* 1100PX */
