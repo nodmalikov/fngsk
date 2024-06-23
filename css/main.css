@@ -1205,6 +1205,7 @@ img {
     font-size: 18px;
 }
 
+
 /* MEDIA-QUERIES */
 /* 1250PX */
 @media only screen and (max-width: 1250px) {
@@ -1258,9 +1259,9 @@ img {
     .wrapper-news__list {
         width: 100%;
     }
-
-     /* MOLD */
-     .mold {
+    
+    /* MOLD */
+    .mold {
         padding-top: 150px;
     }
 }
@@ -1307,7 +1308,7 @@ img {
     .tss__heading {
         font-size: 35px;
     }
-
+    
     /* MOLD-PAGE */
     .mold {
         padding-top: 110px;
@@ -1371,22 +1372,22 @@ img {
         width: 3rem;
         height: 3rem;
     }
-
+    
     /* NEWS-PAGE */
     .news-page {
         padding-top: 75px;
         padding-bottom: 50px;
     }
-
+    
     .item-page__img {
         height: 300px;
     }
-
-     /* MOLD-PAGE */
-     .mold {
+    
+    /* MOLD-PAGE */
+    .mold {
         padding-top: 80px;
     }
-
+    
     .mold__heading {
         font-size: 20px;
     }
@@ -1434,9 +1435,9 @@ img {
         padding-left: 10px;
         padding-right: 10px;
     }
-
-     /* MOLD */
-     .mold__heading {
+    
+    /* MOLD */
+    .mold__heading {
         font-size: 18px;
     }
 }
@@ -1487,7 +1488,7 @@ img {
     .directions__card {
         max-width: 300px;
     }
-
+    
     /* SITE-FOOTER */
     .site-footer {
         padding-top: 30px;
