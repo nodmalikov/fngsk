@@ -34,11 +34,14 @@ document.onreadystatechange = function () {
 // SCROLL
 const elInner = document.querySelector('.site-header__inner');
 const offset = elInner.offsetHeight;
+const elSiteHeader = document.querySelector('.site-header');
 
 window.onscroll = function() {
     if (window.scrollY > offset-10) {
         elInner.classList.add("site-header__none");
+        elSiteHeader.classList.add('site-header__background')
     } else if(window.scrollY < offset-20) {
         elInner.classList.remove("site-header__none");
+        elSiteHeader.classList.remove('site-header__background')
     }
 }
