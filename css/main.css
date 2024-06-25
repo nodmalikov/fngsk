@@ -860,6 +860,11 @@ img {
     width: 100%;
 }
 
+.news__carousel {
+    border-radius: 5px;
+    overflow: hidden;
+}
+
 .wrapper-news__carousel {
     width: 45%;
 }
