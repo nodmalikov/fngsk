@@ -517,15 +517,15 @@ img {
 }
 
 .carousel-one {
-    background-image: url("https://i.postimg.cc/65kw0QF6/college.jpg");
+    background-image: url("../img/room/college.jpg");
 }
 
 .carousel-two {
-    background-image: url("https://i.postimg.cc/fWgMVCK9/chemistry-room.jpg");
+    background-image: url("../img/room/book-rom.jpg");
 }
 
 .carousel-three {
-    background-image: url("https://i.postimg.cc/KvkxBTqs/library.jpg");
+    background-image: url("../img/room/laboratory.jpg");
 }
 
 
