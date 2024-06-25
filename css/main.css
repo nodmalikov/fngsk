@@ -631,7 +631,7 @@ img {
     transition: opacity 0.3s ease;
 }
 
-.bi-browser-chrome,
+.bi-facebook,
 .bi-telegram,
 .bi-youtube,
 .bi-instagram {
@@ -651,8 +651,8 @@ img {
     color: rgb(86, 87, 179);
 }
 
-.bi-browser-chrome {
-    color: orange;
+.bi-facebook {
+    color: rgb(0, 132, 255);
 }
 
 
